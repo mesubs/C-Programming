@@ -1,3 +1,4 @@
+//Created by Subash giri
 #include <stdio.h> // main library
 #include <time.h> // for current local time
 #include <unistd.h> // for sleep(1), system('cls')
